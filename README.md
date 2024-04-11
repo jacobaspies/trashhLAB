@@ -1,5 +1,5 @@
 # trashhLAB
-A collection of data acquisition scripts for performing time-resolved anisotropic solid-state high harmonic generation (TRASHH) spectroscopy [1] and terahertz time-domain spectroscopy (THz-TDS) [2,3]. Future udpates will include a graphical user interface (GUI) for interactive data acquisition and in-line data processing for THz measurements using Nelly [4] 
+A collection of data acquisition scripts for performing time-resolved anisotropic solid-state high harmonic generation (TRASHH) spectroscopy [1] and terahertz time-domain spectroscopy (THz-TDS) [2,3]. Future udpates will include a graphical user interface (GUI) for interactive data acquisition and in-line data processing for THz measurements using Nelly [4].
 
 Data acquisition scripts were developed in MATLAB 2020b and have been deployed in the newest version (MATLAB 2023b). Code is not guaranteed to be free from bugs.
 
